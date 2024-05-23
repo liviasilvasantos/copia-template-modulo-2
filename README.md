@@ -10,3 +10,7 @@ apenas abrir em um editor de texto
 ```
 cd diretorio
 ```
+
+```
+public class Teste {}
+```
